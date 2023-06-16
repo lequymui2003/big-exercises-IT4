@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\BTLNhom4\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\source\repos\BTLNhom4\Server\bin\Debug\Server.exe
+C:\Users\Admin\source\repos\BTLNhom4\Server\bin\Debug\Server.pdb
+C:\Users\Admin\source\repos\BTLNhom4\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTLNhom4\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BTLNhom4\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTLNhom4\Server\obj\Debug\Server.exe
+C:\Users\Admin\source\repos\BTLNhom4\Server\obj\Debug\Server.pdb

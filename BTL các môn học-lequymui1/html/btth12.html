@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--<script>
+        var Ten_KH =prompt('Mời bạn nhập tên:');
+        var So_DT =prompt('Số điện thoại:');
+        var Dia_chi =prompt('Địa chỉ:');
+        document.write('Họ và tên: '+Ten_KH+' <br>');
+        document.write('Số điện thoại:'+So_DT+' <br>' );
+        document.write('Địa chỉ: '+Dia_chi+' <br>');
+        var a='VND';
+        var s1=20;S
+        var dg=10;
+        let thanhtien=s1*dg;
+        document.write('Tổng tiền là::'+' <b> '+thanhtien+''+a+'<br>'+'</b>');-->
+        <script>
+            function Checktuoi(form){
+                if(form.tuoi.value<0)||(form.tuoi.value>50)
+                { alert('Tuổi không hợp lệ');
+                   
+                }}
+        </script>
+        <form name="sukien" method="post" action=""><br>
+            Họ và tên<input type="text" name="họvaten" value="" placeholder="Họ và tên"><br><br>
+            Tuoi<input type="text" name="tuoi" value="" placeholder="Tuổi" onchange="Checktuoi(sukien)"><br><br>
+            <input type="submit" value="Gửi">
+
+        </form>
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,236 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    width: 100%;
+    background-color: #CC0000;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-left: 50px;
+}
+.wrapper img{
+    width: 80px;
+}
+.text{
+     margin-top: 20px;
+     font-size: 18px;
+     color: #fff;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #CC0000;
+    padding-left: 30px;
+}
+#search-box{
+    background-color:white;
+    border-radius: 30px;
+}
+#search-box #search-text{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 18x;
+    width: 0;
+    padding: 0;
+    transition: all 0.25s ease-in-out;
+}
+#search-box:hover #search-text, #search-box #search-text:valid{
+    width: 490px;
+    padding: 10px 0px 10px 15px;
+}
+#search-box #search-btn{
+    background-color:white;
+    cursor: pointer;
+    border: none;
+    padding:  15px;
+    border-radius: 50%;
+    font-size: 18px;
+}
+.submit{
+    padding-left: 250px;
+}
+.submit .bang{
+    border-radius: 30px;
+    background-color:#CC0000;
+    padding: 10px 5px;
+    color: #fff;
+    border: 3px solid;
+    cursor: pointer;
+}
+.giohang{
+    font-size: 17px;
+    padding-left: 20px;
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+}
+#wrapper1{
+    height: 30px;
+    display: flex;
+    justify-content: left;
+    background-color:black;
+}
+.nav{
+    margin-left:  50px;
+}
+ul#main-menu{
+    display: flex;
+    margin-top: auto;
+}
+ul#main-menu li{
+    padding: 0px 60px;
+    
+}
+ul#main-menu a{
+    display: block;
+    padding: 5px 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color:white;
+    position: relative;
+}
+ul#main-menu a::after{
+    content: "";
+    height: 5px;
+    width: 0px;
+    background-color: tomato;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    transition: all 0.5s ease-in-out;
+}
+ul#main-menu a:hover:after{
+    width: 50%;
+    transform: translateX(100%);
+}
+.dangki{
+    min-height: 100vh;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    size: 14px;
+    display: flex;
+}
+#form{
+    max-width: 400px;
+    background:  rgba(0, 0, 0,0.8);
+    padding: 80px 100px 80px;
+    flex-grow: 1;
+    box-shadow: 0px 0px 17px 2px rgba(255, 255, 255, 0.8);
+}
+.tieude{
+    color: #fff;
+    margin-bottom: 30px;
+    font-size: 18px;
+    text-align: center;
+}
+.than{
+    border-bottom: 1px solid #fff;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: flex;
+}
+.than i{
+    color:#fff;
+    font-size: 14px;
+    padding-bottom:5px;
+    padding-right: 10px;
+}
+.than .nhap{
+    background:transparent;
+    border: 0;
+    outline: 0;
+    color: #f5f5f5;
+    flex-grow: 1;
+}
+.nhap::placeholder{
+    color: #f5f5f5;
+}
+.mat i{
+    padding-right: 0;
+    cursor: pointer;
+}
+.mat2 i{
+    padding-right: 0;
+    cursor: pointer;
+}
+.dangnhap{
+    background: transparent;
+    border: 1px solid #f5f5f5;
+    color: #fff;
+    width: 100%;
+    text-transform: uppercase;
+    padding: 6px 10px;
+    transition: 0.25s ease-in-out;
+    margin-top: 30px;
+}
+.dangnhap:hover{
+    border: 1px red solid;
+    cursor: pointer;
+}
+
+
+footer{
+    float: left;
+    width: 100%;
+    background-color:black;
+    min-height: 150px;
+    padding-top: 30px;
+}
+.row{
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.boxcenter2{
+    width: 90%;
+    margin: 0 auto;
+    
+}
+.boxfooter1{
+    width: 35%;
+    float: left;
+}
+.boxfooter2{
+    width: 45%;
+    float: left;
+    
+}
+.boxfooter2 h4{
+    padding-bottom: 10px;
+}
+.boxfooter3{
+    width: 20%;
+    float: left;
+}
+.boxfooter3 h4{
+    padding-bottom: 10px;
+}
+.textcenter{
+    text-align: center;
+}
+.colorc{
+    color: #ccc;
+}
+.mrb10{
+    margin-bottom: 10px;
+}
+footer a{
+    color: #ccc;
+    margin-left: 20px;
+    text-decoration: none;
+}
+footer a:hover{
+    color: #ccc;
+    text-decoration: underline;
+}

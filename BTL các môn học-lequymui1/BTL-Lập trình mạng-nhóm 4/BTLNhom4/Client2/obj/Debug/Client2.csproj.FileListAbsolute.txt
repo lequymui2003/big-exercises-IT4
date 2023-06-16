@@ -1,0 +1,8 @@
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\bin\Debug\Client2.exe.config
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\bin\Debug\Client2.exe
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\bin\Debug\Client2.pdb
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\obj\Debug\Client2.csproj.SuggestedBindingRedirects.cache
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\obj\Debug\Client2.exe
+C:\BTL các môn học-lequymui\BTL các môn học-lequymui\BTL-Lập trình mạng-nhóm 4\BTLNhom4\Client2\obj\Debug\Client2.pdb
